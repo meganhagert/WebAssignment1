@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'MeganHagertWebDevel'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_27A7B39779CE4E04AF5641F7EADB7B2B }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F4AE0AB9F73B431F90C8DB4A4D1CCD97 }}
           package: .
